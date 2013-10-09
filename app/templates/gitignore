@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+.nodemonignore
+.sass-cache/
+node_modules/
+public/lib
