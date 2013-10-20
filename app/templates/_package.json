@@ -1,7 +1,7 @@
 {
     "name": "meanis",
     "description": "MEANIS - A Modern Stack: MongoDB, ExpressJS, AngularJS, NodeJS, Socket.io. (BONUS: Passport User Support).",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "private": false,
     "author": "Christopher EnyTC",
     "repository": {
