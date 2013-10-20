@@ -2,21 +2,21 @@
     "name": "meanis",
     "version": "1.2.0",
     "dependencies": {
-        "bootstrap": "3.0.0",
-        "angular": "1.2.0-rc.3",
-        "angular-resource": "1.2.0-rc.3",
-        "angular-cookies": "1.2.0-rc.3",
+        "jquery": "~2.0.0",
+        "bootstrap": "~3.0.0",
+        "angular": "~1.2.0-rc.3",
+        "angular-resource": "~1.2.0-rc.3",
+        "angular-cookies": "~1.2.0-rc.3",
         "angular-bootstrap": "~0.6.0",
         "angular-ui-utils": "~0.0.4",
-        "json3": "~3.2.5",
-        "jquery": "~2.0.0"
+        "json3": "~3.2.5"
     },
     "exportsOverride": {
-    	"bootstrap": {
-    		"css": "docs/assets/css/bootstrap*.css",
-    		"js": "docs/assets/js/bootstrap.js",
-    		"img": "docs/assets/img/glyphicons-halflings*.png"
-    	},
+        "bootstrap": {
+            "css": "docs/assets/css/bootstrap*.css",
+            "js": "docs/assets/js/bootstrap.js",
+            "img": "docs/assets/img/glyphicons-halflings*.png"
+        },
         "angular-ui-utils": {
             "modules": "modules/route/route.js"
         }

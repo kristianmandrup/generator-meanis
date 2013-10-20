@@ -76,7 +76,6 @@ MeanisGenerator.prototype.projectfiles = function projectfiles() {
   this.copy('_Procfile', 'Procfile');
   this.copy('_README.md', 'README.md');
   this.copy('_server.js', 'server.js');
-  this.copy('bowerrc', '.bowerrc');
   this.copy('editorconfig', '.editorconfig');
   this.copy('gitignore', '.gitignore');
   this.copy('jshintrc', '.jshintrc');
